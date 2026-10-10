@@ -1,5 +1,9 @@
 # Signature Bites – AI-Powered Restaurant Ordering Platform
 
+
+🌐 **Live Website:** [Visit Signature Bites](https://ai-powered-restaurant-ordering-plat.vercel.app)
+
+
 MERN ordering platform for **Signature Bites** (FSSAI Reg. No. 21026134000596): menu management, cart, dine-in / takeaway orders, UPI QR checkout with UTR-based payment verification, a JWT-secured admin dashboard, and a hybrid RAG chatbot (BM25 + Gemini embeddings) that answers dietary, spice and budget questions from the live menu.
 
 **Stack:** React (Vite) · Node.js · Express · MongoDB (Mongoose) · Gemini API
