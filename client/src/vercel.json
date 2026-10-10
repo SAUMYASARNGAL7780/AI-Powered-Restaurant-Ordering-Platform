@@ -1,9 +1,0 @@
-
-{
-  "rewrites": [
-    {
-      "source": "/api/:path*",
-      "destination": "https://ai-powered-restaurant-ordering-platform.onrender.com/api/:path*"
-    }
-  ]
-}
